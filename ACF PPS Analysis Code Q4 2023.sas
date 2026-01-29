@@ -6,11 +6,7 @@
 ***********************************************************************************
        Project: Acute Care Hospitals Point Prevalence Survey    
 
-Programmer: Yusuf 
-
-           Date: September 2018   
-
-Modified: Dipen M Patel 
+Programmer: Dipen M Patel 
 
        Version:2.0
 
@@ -800,3 +796,4 @@ quit;
 %output;
 Clear Log Window ;
  DM "log; clear; ";*/
+
